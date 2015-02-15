@@ -3,7 +3,9 @@
 # [NW.js](http://nwjs.io) playground
 
 
-Project to learn and experiment with [NW.js](http://nwjs.io)
+Project to learn and experiment with [NW.js](http://nwjs.io).
+
+NW.js enables the creation of cross platform desktop applications.  Your UI is built with standard html, js, and css technologies.  Access to the underlying desktop OS capabilites are provided by giving you access to [node.js](http://nodejs.org/).  You can use the Node.js core modules plus any of the 3rd party [NPM](https://www.npmjs.com/) modules;
 
 ## Installing NW.js
 
@@ -16,6 +18,8 @@ Download and unpack nwjs app for your platform from <http://nwjs.io>
 create `index.html` and `package.json` files
 
 > see [nw.js quick-start](https://github.com/nwjs/nw.js#quick-start) for details
+
+This app is a minimal example with an added `app.js` file for javascript.  It's sets the `document.body` to `'Hello There'`.
 
 ## Running
 
