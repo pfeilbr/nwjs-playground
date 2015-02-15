@@ -1,10 +1,13 @@
+<img style="" src="http://nwjs.io/images/nw.png">
+
 # [NW.js](http://nwjs.io) playground
+
 
 Project to learn and experiment with [NW.js](http://nwjs.io)
 
-## Installing [NW.js](http://nwjs.io/)
+## Installing NW.js
 
-Download and unpack [NW.js](http://nwjs.io/) app for your platform from <http://nwjs.io>
+Download and unpack nwjs app for your platform from <http://nwjs.io>
 
 > On OSX you'll end up with `/Applications/nwjs.app`
 
